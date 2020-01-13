@@ -1,0 +1,3 @@
+window.onCloseRequest(e -> {
+	//perform save operation here
+} 
